@@ -4,7 +4,20 @@
 
 Buyer is a web application designed to mimic the design of Amazon. This project showcases the use of CSS for design and Font Awesome for icons to replicate Amazon's user interface. The focus is on creating a visually appealing and responsive design that closely resembles Amazon's website.
 
+
+Here are some glimpses of the Buyer web application:
+
+### Homepage
+
 ![BUYER Web Application](buyer.png)
+
+### Product Listings
+
+![BUYER Web Application](buyer2.png)
+
+### Footer
+
+![BUYER Web Application](buyer3.png)
 
 ## Features
 
@@ -19,8 +32,6 @@ Buyer is a web application designed to mimic the design of Amazon. This project 
 - **CSS**: For styling and designing the user interface.
 - **Font Awesome**: For incorporating a wide range of icons to enhance the visual appeal.
 
-![BUYER Web Application](buyer2.png)
-
 ## Getting Started
 
 ### Prerequisites
@@ -34,7 +45,7 @@ To run this project locally, you need to have the following installed on your sy
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/buyer.git
+    https://github.com/Etika8445/Buyer.git
     ```
 2. Open the `index.html` file in your web browser to view the application.
 
